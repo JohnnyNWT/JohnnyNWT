@@ -1,3 +1,4 @@
+ <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm João Marcelo</h1>
 <div align="center">
   <a href="https://github.com/johnnynwt">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=johnnynwt&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
