@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm João Marcelo</h1>
 <div align="center">
   <a href="https://github.com/johnnynwt">
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JohnnyNWT&show_icons=true&count_private=true&theme=nightowl&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JohnnyNWT&langs_count=8&count_private=true&layout=compact&theme=nightowl&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JohnnyNWT&show_icons=true&count_private=true&theme=vue-dark&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JohnnyNWT&langs_count=8&count_private=true&layout=compact&theme=vue-dark&hide_border=true"/>
 </div>
 
 <div align="center">
