@@ -1,8 +1,8 @@
- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm João Marcelo</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm João Marcelo</h1>
 <div align="center">
   <a href="https://github.com/johnnynwt">
   <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JohnnyNWT&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JohnnyNWT&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyNWT&anuraghazra&layout=pie"/>
 </div>
 
 <div align="center">
@@ -26,6 +26,4 @@
   <a href="https://www.instagram.com/johnnynwt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href = "mailto:jooaaooskt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/johnnydev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?JohnnyNWT=anuraghazra&show_icons=true&theme=transparent)
 </div>
