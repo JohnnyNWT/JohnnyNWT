@@ -1,6 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm João Marcelo</h1>
 <div>
-  <h3>SOBRE MIM</h3>
   <p>
     Olá! Sou João Marcelo, um profissional apaixonado por tecnologia e inovação, sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Norte do Paraná (Unopar). Minha jornada rumo ao desenvolvimento web começou na Trybe, onde me especializei em HTML, CSS, JavaScript, React, Node.js, Express, SQL, Docker e TypeScript, adquirindo habilidades essenciais para criar soluções web intuitivas e eficientes.
     Estou sempre em busca de desafios que me impulsionem a crescer e evoluir, tanto no âmbito profissional quanto pessoal.
